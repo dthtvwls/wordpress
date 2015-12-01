@@ -1,0 +1,3 @@
+It's a vagrant file that sets up wordpress/lamp stack on ubuntu trusty for you!
+
+Just run `vagrant up`!
